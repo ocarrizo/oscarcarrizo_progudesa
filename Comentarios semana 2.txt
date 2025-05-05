@@ -1,0 +1,8 @@
+SEMANA 02
+
+En collatz, el contador solo se incrementa en el caso impar. Además, cuenta un paso extra al iniciar el contador en 1. Si la función recibe un 1 por parámetro deberá agregar 0 pasos más.
+
+Se esperaba la función "propagar" y la definición la nombra "propagaciones".
+Propagaciones no está cumpliendo lo solicitado.
+Por ejemplo, analizar [0, 1, 0]
+
